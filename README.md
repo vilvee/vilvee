@@ -20,7 +20,7 @@
 
 I'm a software developer based in the Montréal area, with a DEC in Computer Science Technology from John Abbott College.
 
-I previously worked at Morgan Stanley, where I gained experience with Python ETL workflows, Snowflake integration, SQL troubleshooting, and working with technical and non-technical stakeholders.
+I previously worked with Python ETL workflows, Snowflake integration, SQL troubleshooting, and working with technical and non-technical stakeholders.
 
 I'm particularly interested in Python, SQL, backend development, and data systems. I also enjoy working on personal projects and exploring different areas of software development.
 
